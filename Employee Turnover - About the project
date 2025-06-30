@@ -1,0 +1,18 @@
+Predicting Employee Turnover at Portobello Tech
+This is my first, hands-on machine learning project that I completed using HR data. I analyzed employee details—like projects handled, monthly hours, tenure, promotions, salary levels, satisfaction, and evaluation scores—to build a predictive model for identifying employees at risk of leaving. Along the way, I:
+
+Ensured data quality by handling missing values
+
+Investigated top contributors to attrition
+
+Clustered past leavers to uncover patterns in satisfaction and evaluation
+
+Addressed class imbalance using SMOTE
+
+Trained and compared models with k‑fold validation
+
+Evaluated performance using metrics like ROC‑AUC, F1‑score, precision, and recall
+
+Translated model insights into strategic, data-backed retention suggestions
+
+This project showcases my skills in feature engineering, model tuning, and turning analytics into actionable business recommendations.
